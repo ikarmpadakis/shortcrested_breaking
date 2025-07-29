@@ -1,7 +1,7 @@
 # Crest height distribution 
 _Model development by Al Khalili and Karmpadakis (2025) - Imperial College London_
 
-Details are provided in Al Khalili and Karmpadakis. 2025. Breaking occurrence and dissipation in shortcrested waves in finite water depths. Coastal Engineering.  
+Details are provided in Al Khalili and Karmpadakis (2025): "Breaking occurrence and dissipation in shortcrested waves in finite water depths". Coastal Engineering.  
 
 
 ## Crest height function - **fCrest_UAK.m**
